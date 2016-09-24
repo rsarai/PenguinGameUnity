@@ -1,0 +1,485 @@
+fileFormatVersion: 2
+guid: 0e957d895d5c18041a888bf5e840a274
+timeCreated: 1455806476
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bomb_anim_0
+    21300002: bomb_anim_1
+    21300004: bomb_anim_2
+    21300006: bomb_anim_3
+    21300008: bomb_anim_4
+    21300010: bomb_anim_5
+    21300012: bomb_anim_6
+    21300014: bomb_anim_7
+    21300016: bomb_anim_8
+    21300018: bomb_anim_9
+    21300020: bomb_anim_10
+    21300022: bomb_anim_11
+    21300024: bomb_anim_12
+    21300026: bomb_anim_13
+    21300028: bomb_anim_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bomb_anim_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1724
+        width: 208
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 146}
+        - {x: 72, y: 138}
+        - {x: 76, y: 133}
+        - {x: 95, y: 131}
+        - {x: 104, y: 134}
+        - {x: 104, y: 204}
+        - {x: 94, y: 207}
+        - {x: 2, y: 207}
+        - {x: -84, y: 173}
+        - {x: -104, y: 142}
+        - {x: -104, y: 4}
+        - {x: -91, y: 0}
+        - {x: 81, y: 0}
+        - {x: 98, y: 1}
+        - {x: 98, y: 27}
+        - {x: 89, y: 31}
+        - {x: 84, y: 119}
+    - name: bomb_anim_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1725
+        width: 210
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 135}
+        - {x: 105, y: 142}
+        - {x: 105, y: 199}
+        - {x: 95, y: 215}
+        - {x: 11, y: 215}
+        - {x: -43, y: 206}
+        - {x: -79, y: 175}
+        - {x: -105, y: 141}
+        - {x: -105, y: 11}
+        - {x: -101, y: 8}
+        - {x: -70, y: 0}
+        - {x: 72, y: 0}
+        - {x: 105, y: 25}
+        - {x: 105, y: 34}
+        - {x: 78, y: 137}
+    - name: bomb_anim_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1479
+        width: 212
+        height: 225
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 80}
+        - {x: 82, y: 105}
+        - {x: 80, y: 132}
+        - {x: 75, y: 148}
+        - {x: 69, y: 159}
+        - {x: 74, y: 150}
+        - {x: 77, y: 146}
+        - {x: 97, y: 143}
+        - {x: 106, y: 145}
+        - {x: 106, y: 203}
+        - {x: 99, y: 225}
+        - {x: -22, y: 225}
+        - {x: -106, y: 172}
+        - {x: -106, y: 13}
+        - {x: -87, y: 1}
+        - {x: -81, y: 0}
+        - {x: 75, y: 0}
+        - {x: 89, y: 24}
+        - {x: 77, y: 31}
+        - {x: 61, y: 37}
+    - name: bomb_anim_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1478
+        width: 250
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 132}
+        - {x: 85, y: 123}
+        - {x: 89, y: 115}
+        - {x: 116, y: 111}
+        - {x: 125, y: 117}
+        - {x: 125, y: 185}
+        - {x: 119, y: 196}
+        - {x: -41, y: 196}
+        - {x: -110, y: 130}
+        - {x: -125, y: 85}
+        - {x: -125, y: 2}
+        - {x: -118, y: 0}
+        - {x: 57, y: 0}
+        - {x: 76, y: 12}
+        - {x: 88, y: 86}
+        - {x: 87, y: 115}
+    - name: bomb_anim_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1232
+        width: 216
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 140}
+        - {x: 82, y: 130}
+        - {x: 108, y: 133}
+        - {x: 108, y: 191}
+        - {x: 101, y: 210}
+        - {x: -15, y: 210}
+        - {x: -108, y: 152}
+        - {x: -108, y: 7}
+        - {x: -88, y: 0}
+        - {x: 74, y: 0}
+        - {x: 93, y: 2}
+        - {x: 107, y: 25}
+        - {x: 83, y: 123}
+        - {x: 73, y: 142}
+    - name: bomb_anim_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1230
+        width: 242
+        height: 209
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: 197}
+        - {x: 111, y: 209}
+        - {x: 3, y: 209}
+        - {x: -69, y: 195}
+        - {x: -99, y: 148}
+        - {x: -106, y: 75}
+        - {x: -121, y: 47}
+        - {x: -121, y: 15}
+        - {x: -100, y: 2}
+        - {x: -74, y: 0}
+        - {x: 55, y: 0}
+        - {x: 90, y: 18}
+        - {x: 85, y: 31}
+        - {x: 121, y: 110}
+    - name: bomb_anim_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 988
+        width: 215
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.5, y: 160}
+        - {x: 72.5, y: 158}
+        - {x: 76.5, y: 152}
+        - {x: 107.5, y: 146}
+        - {x: 107.5, y: 221}
+        - {x: 98.5, y: 233}
+        - {x: -11.5, y: 233}
+        - {x: -81.5, y: 195}
+        - {x: -107.5, y: 163}
+        - {x: -107.5, y: 0}
+        - {x: 83.5, y: 0}
+        - {x: 100.5, y: 13}
+        - {x: 87.5, y: 133}
+        - {x: 76.5, y: 147}
+    - name: bomb_anim_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 986
+        width: 245
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 132}
+        - {x: 88.5, y: 120}
+        - {x: 113.5, y: 118}
+        - {x: 122.5, y: 121}
+        - {x: 122.5, y: 188}
+        - {x: 113.5, y: 199}
+        - {x: 100.5, y: 202}
+        - {x: 24.5, y: 202}
+        - {x: -40.5, y: 192}
+        - {x: -89.5, y: 152}
+        - {x: -101.5, y: 117}
+        - {x: -102.5, y: 81}
+        - {x: -96.5, y: 61}
+        - {x: -120.5, y: 34}
+        - {x: -122.5, y: 28}
+        - {x: -122.5, y: 14}
+        - {x: -118.5, y: 11}
+        - {x: -97.5, y: 0}
+        - {x: 47.5, y: 0}
+        - {x: 72.5, y: 8}
+        - {x: 85.5, y: 26}
+        - {x: 88.5, y: 116}
+    - name: bomb_anim_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 738
+        width: 225
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.5, y: 133}
+        - {x: 111.5, y: 127}
+        - {x: 112.5, y: 130}
+        - {x: 112.5, y: 201}
+        - {x: 100.5, y: 215}
+        - {x: -5.5, y: 215}
+        - {x: -108.5, y: 165}
+        - {x: -108.5, y: 67}
+        - {x: -112.5, y: 52}
+        - {x: -112.5, y: 11}
+        - {x: -84.5, y: 0}
+        - {x: 69.5, y: 0}
+        - {x: 104.5, y: 7}
+        - {x: 84.5, y: 128}
+        - {x: 75.5, y: 146}
+        - {x: 78.5, y: 142}
+    - name: bomb_anim_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 741
+        width: 241
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.5, y: 114}
+        - {x: 120.5, y: 123}
+        - {x: 120.5, y: 207}
+        - {x: -20.5, y: 207}
+        - {x: -57.5, y: 195}
+        - {x: -111.5, y: 129}
+        - {x: -106.5, y: 86}
+        - {x: -120.5, y: 44}
+        - {x: -120.5, y: 10}
+        - {x: -92.5, y: 0}
+        - {x: 41.5, y: 0}
+        - {x: 76.5, y: 10}
+        - {x: 74.5, y: 64}
+        - {x: 91.5, y: 81}
+    - name: bomb_anim_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 234
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 127}
+        - {x: 117, y: 136}
+        - {x: 117, y: 213}
+        - {x: 101, y: 218}
+        - {x: 21, y: 218}
+        - {x: -65, y: 189}
+        - {x: -102, y: 137}
+        - {x: -117, y: 73}
+        - {x: -117, y: 16}
+        - {x: -103, y: 6}
+        - {x: -64, y: 0}
+        - {x: 55, y: 0}
+        - {x: 108, y: 18}
+        - {x: 81, y: 52}
+        - {x: 88, y: 78}
+    - name: bomb_anim_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 492
+        width: 238
+        height: 214
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 38}
+        - {x: 89, y: 96}
+        - {x: 87, y: 125}
+        - {x: 82, y: 142}
+        - {x: 88, y: 128}
+        - {x: 115, y: 131}
+        - {x: 119, y: 133}
+        - {x: 119, y: 201}
+        - {x: 111, y: 214}
+        - {x: -25, y: 214}
+        - {x: -89, y: 196}
+        - {x: -119, y: 108}
+        - {x: -119, y: 11}
+        - {x: -117, y: 9}
+        - {x: -65, y: 0}
+        - {x: 32, y: 0}
+        - {x: 76, y: 7}
+        - {x: 90, y: 17}
+        - {x: 90, y: 30}
+    - name: bomb_anim_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 218
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 100}
+        - {x: 81, y: 143}
+        - {x: 75, y: 160}
+        - {x: 64, y: 182}
+        - {x: 66, y: 184}
+        - {x: 69, y: 190}
+        - {x: 74, y: 163}
+        - {x: 83, y: 157}
+        - {x: 108, y: 155}
+        - {x: 109, y: 160}
+        - {x: 109, y: 242}
+        - {x: -47, y: 242}
+        - {x: -109, y: 229}
+        - {x: -109, y: 3}
+        - {x: -86, y: 0}
+        - {x: 57, y: 0}
+        - {x: 74, y: 11}
+        - {x: 73, y: 23}
+        - {x: 61, y: 32}
+    - name: bomb_anim_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 234
+        height: 219
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 151}
+        - {x: 83, y: 136}
+        - {x: 116, y: 129}
+        - {x: 117, y: 134}
+        - {x: 117, y: 215}
+        - {x: 111, y: 219}
+        - {x: -15, y: 219}
+        - {x: -55, y: 213}
+        - {x: -111, y: 142}
+        - {x: -117, y: 100}
+        - {x: -117, y: 6}
+        - {x: -106, y: 0}
+        - {x: 47, y: 0}
+        - {x: 104, y: 12}
+        - {x: 80, y: 142}
+        - {x: 73, y: 162}
+        - {x: 76, y: 167}
+    - name: bomb_anim_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 226
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: 214}
+        - {x: 109, y: 230}
+        - {x: -2, y: 230}
+        - {x: -79, y: 199}
+        - {x: -93, y: 177}
+        - {x: -109, y: 138}
+        - {x: -108, y: 85}
+        - {x: -102, y: 34}
+        - {x: -113, y: 28}
+        - {x: -113, y: 13}
+        - {x: -111, y: 8}
+        - {x: -76, y: 0}
+        - {x: 56, y: 0}
+        - {x: 90, y: 26}
+        - {x: 75, y: 62}
+        - {x: 113, y: 129}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
